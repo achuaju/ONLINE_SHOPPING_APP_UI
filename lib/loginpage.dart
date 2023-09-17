@@ -101,7 +101,7 @@ class _PROJECState extends State<PROJEC> {
                     ),
                   ),
                   Text(
-                    "Bay it",
+                    "Buy it",
                     style: TextStyle(
                       fontStyle: FontStyle.italic,
                       color: Colors.black,
